@@ -1,6 +1,4 @@
-Sure! Here’s the updated description and `README.md` file with the additional details about the internship at the Physical Research Laboratory.
-
----
+[REPOSITORY UNDER CONSTRUCTION,but feel free to check out scripts]
 
 ### Repository Description
 The `ERA5_vs_IMDAA` repository contains a collection of scripts for comparing the ERA5 and IMDAA datasets. The primary functions include plotting the datasets over grid points and performing subtraction operations to visualize differences. This repository is the result of an internship project at the Physical Research Laboratory.
@@ -42,6 +40,3 @@ This project is the result of an internship at the Physical Research Laboratory.
 - [IMDAA](https://rds.ncmrwf.gov.in) provided by the National Centre for Medium Range Weather Forecasting (NCMRWF).
 ```
 
----
-
-Feel free to customize the `README.md` further as needed. If there are any other specific details or sections you'd like to add, let me know!
