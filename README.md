@@ -16,14 +16,6 @@ This repository contains
 
 scripts for the comparison of ERA5 and IMDAA datasets. The scripts are designed to plot these datasets over grid points and perform subtraction operations to visualize the differences between them. This repository is the result of an internship project at the Physical Research Laboratory.
 
-## Contents
-
-- `data/`: Directory containing the ERA5 and IMDAA data files.
-- `scripts/`: Directory containing the Python scripts for data processing and visualization.
-- `notebooks/`: Jupyter notebooks for interactive data analysis and visualization.
-- `plots/`: Directory to save the generated plots.
-- `README.md`: This file.
-
 ## Installation
 
 To run the scripts, you'll need to have Python installed. It's recommended to use a virtual environment. You can install the required dependencies using the following commands:
